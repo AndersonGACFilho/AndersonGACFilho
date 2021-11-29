@@ -5,4 +5,4 @@
 
 #### My Favorite area is currently Game Development, but I don't work with it, because in Brazil this area has no job oportunities ;-;. 
 
-<h1 style="align-items:center; justify-content:center"><a href="https://www.linkedin.com/in/anderson-gon%C3%A7alves-alves-cunha-filho-2334831a1/" target="_blank"> <img src="https://github-readme-stats.vercel.app/api?username=Andy-kun&theme=midnight-purple"/><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Andy-kunn&theme=midnight-purple&layout=compact&langs_count=10&hide=shell,c%2B%2B" /></a></h1>
+<h1 style="display: flex;align-items:center; justify-content:center"><a href="https://www.linkedin.com/in/anderson-gon%C3%A7alves-alves-cunha-filho-2334831a1/" target="_blank"> <img src="https://github-readme-stats.vercel.app/api?username=Andy-kun&theme=midnight-purple"/><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Andy-kunn&theme=midnight-purple&layout=compact&langs_count=10&hide=shell,c%2B%2B" /></a></h1>
