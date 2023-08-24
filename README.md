@@ -6,7 +6,7 @@
 
 #### My Favorite area is currently Game Development, but I don't work with it, because in Brazil this area has no job oportunities ;-;. 
 
-![](https://github-readme-stats.vercel.app/api?username=Andy-kun&theme=midnight-purple ) | ![](https://github-readme-stats.vercel.app/api/top-langs?username=Andy-kunn&theme=midnight-purple&layout=compact&langs_count=10&hide=shell,c%2B%2B")
+![](https://github-readme-stats.vercel.app/api?username=Andy-kun&theme=midnight-purple ) | ![](https://github-readme-stats.vercel.app/api/top-langs?username=AndersonGACFilho&theme=midnight-purple&layout=compact&langs_count=10&hide=shell,c%2B%2B")
 -------|-------
 
 
