@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=38C2FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&lines=Ol%C3%A1%2C+sou+Anderson%2C+mas+pode+me+chamar+de+Andy!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=38C2FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=80&lines=Ol%C3%A1%2C+sou+Anderson%2C+mas+pode+me+chamar+de+Andy!!)](https://git.io/typing-svg)
 <br>
 ## Sobre mim 🇧🇷
 
