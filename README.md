@@ -24,5 +24,8 @@
 
 ## Como me conectar
 
-[![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/anderson-gon%C3%A7alves-alves-cunha-filho-2334831a1)
-[![Image of Anderson no GitHub.](https://github.com/AndersonGACFilho/AndersonGACFilho/blob/main/assets/github.png)](https://github.com/AndersonGACFilho)
+[![Linkedin Image](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)
+](https://www.linkedin.com/in/anderson-gon%C3%A7alves-alves-cunha-filho-2334831a1) 
+
+[![Image of Anderson no GitHub.](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge")
+](https://github.com/AndersonGACFilho)
