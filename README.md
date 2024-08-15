@@ -23,8 +23,7 @@
 - **Version Control:** Git & GitHub ([AndersonGACFilho](https://github.com/AndersonGACFilho))
 <br><br>
 ### **Interests:**
-- **Game Development**
-- Crafting immersive and engaging experiences<br>
+- **Game Development** - Crafting immersive and engaging experiences<br>
 - **FullStack Development** – Building seamless, end-to-end applications<br>
 - **Artificial Intelligence (AI)** – Leveraging the power of intelligent technologies<br>
 - **Gaming** <br>
