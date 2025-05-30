@@ -73,14 +73,13 @@ Apr 2023 – Present (CEFR C1: Listening, Speaking, Critical Reading & Writing)
 **Mar 2021 – Nov 2021**
 
 * Tutored and supported students in Introduction to Programming & Computing courses.
-* Developed supplementary materials and led coding workshops.
 
 ### Volunteer Developer, Level 5 Jr — Goiânia, GO, Brazil
 
 **May 2021 – Dec 2021**
 
-* Created and updated WordPress websites for non-profit clients.
-* Coordinated feature delivery and issue resolution with small development teams.
+* Created and updated WordPress websites.
+* Collaborated in Agile sprints.
 
 ---
 
