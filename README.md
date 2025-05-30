@@ -30,10 +30,8 @@ Dynamic Software Engineer with 3+ years of experience building full-stack applic
 
 **Apr 2025 – Present • Goiânia, GO, Brazil**
 
-* Developed and maintained RESTful APIs to integrate machine learning models with front-end clients.
-* Conducted performance tuning, reducing average endpoint latency by 30%.
-* Led code reviews and mentoring sessions to uphold coding standards.
-* Collaborated in Agile sprints, contributing to planning, demos, and retrospectives.
+* Developed and maintained RESTful APIs to integrate with front-end clients.
+* Collaborated in Agile sprints.
 
 ### TOTVS Brasil Central — Full-Stack Developer
 
@@ -41,16 +39,12 @@ Dynamic Software Engineer with 3+ years of experience building full-stack applic
 
 * Delivered end-to-end features with Angular, React, and Spring Boot.
 * Defined technical specifications and implemented UI components aligned to product requirements.
-* Introduced unit and integration tests, raising coverage to 85%.
-* Automated infrastructure provisioning via Terraform and Azure DevOps for zero-downtime deployments.
 
 ### LabTIME (UFG) — Game Developer (Unreal Engine / C++)
 
 **Feb 2024 – Nov 2024 • Goiânia, GO, Brazil**
 
 * Designed and implemented core gameplay mechanics and UI systems.
-* Optimized asset streaming and memory usage to maintain 60 FPS target.
-* Participated in cross-discipline sprints with artists and designers to refine prototypes.
 
 ---
 
