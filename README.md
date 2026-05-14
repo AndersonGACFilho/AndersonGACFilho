@@ -5,7 +5,13 @@ Brazil • Porto Alegre, RS • +55 (62) 98114-7008 • [andersonfilho09@gmail.c
 
 [GitHub](https://github.com/AndersonGACFilho) • [LinkedIn](https://www.linkedin.com/in/agacf/) • [Itch.io](https://vertex-shift.itch.io)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonGACFilho&theme=dracula&hide_border=false)](https://github.com/AndersonGACFilho)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndersonGACFilho&theme=dracula" alt="Anderson's GitHub streak" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AndersonGACFilho&theme=dracula&no-frame=true&margin-w=10" alt="GitHub trophies" />
+</p>
 
 ---
 
@@ -114,7 +120,7 @@ My long-term focus is the intersection between **gameplay programming**, **AI sy
 
 ## Featured Game Projects
 
-### <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/40db355c-7fbc-42ce-a97c-5ef3785f099f" /> The Invasion
+### <img width="15" height="15" alt="The Invasion icon" src="https://github.com/user-attachments/assets/40db355c-7fbc-42ce-a97c-5ef3785f099f" /> The Invasion
 
 **Solo Developer · C/C++ · Allegro · Windows/Linux**  
 **Playable build:** [The Invasion on Itch.io](https://vertex-shift.itch.io/the-invasion)
@@ -172,7 +178,7 @@ The project keeps the spirit of the original arcade shooter while rebuilding its
 
 ---
 
-### <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/853ff378-ebd8-481d-8f82-d4ed242c9606" /> Enhanced Shots 
+### <img width="20" height="20" alt="Enhanced Shots icon" src="https://github.com/user-attachments/assets/853ff378-ebd8-481d-8f82-d4ed242c9606" /> Enhanced Shots 
 **Gameplay Programmer · Unity · C# · FPS Prototype**  
 **Playable build:** [Enhanced Shots on Itch.io](https://vertex-shift.itch.io/enhanced-shots)
 
@@ -202,7 +208,7 @@ The game combines FPS mechanics with score-based progression, temporary buffs, s
 
 ---
 
-### Global Game Jam 2026 — Mask Project - Vampiros (Não) Me Mordam
+### Global Game Jam 2026 — Vampiros (Não) Me Mordam / Vampires (Don't) Bite Me
 
 **Programmer & Game Designer · Unity · C# · 2D Side-Scroller Survival/Stealth Prototype**  
 **Status:** Jam prototype / Post-jam remake planned
@@ -495,7 +501,7 @@ Focus areas:
 
 - Participated in the game development community through Global Game Jam activities.
 - Worked under short production cycles and rapid prototyping constraints.
-- Started a Unity/C# 2D top-down survivor concept based on the theme **Mask**.
+- Started a Unity/C# 2D side-scroller survival/stealth concept based on the theme **Mask**.
 
 ---
 
