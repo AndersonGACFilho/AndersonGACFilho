@@ -390,6 +390,44 @@ A Python automation script for translating Stardew Valley mod files, focused on 
 
 ---
 
+### Chronic Kidney Disease Risk Prediction
+
+**Machine Learning Developer · Python · Scikit-learn · Google Colab · Academic Research**  
+**Status:** In development / MSc coursework project  
+**Course:** CMP263 — Machine Learning · UFRGS
+
+A machine learning project focused on predicting the presence of **Chronic Kidney Disease (CKD)** from health-related patient data, with emphasis on supervised learning, model evaluation, reproducibility and interpretability.
+
+The project is being developed as part of the **CMP263 — Machine Learning** course at UFRGS. It follows a research-oriented workflow covering exploratory data analysis, preprocessing, model training, validation, hyperparameter optimization, performance comparison and interpretation of predictive models.
+
+The goal is not only to build a predictive classifier, but also to document the full machine learning pipeline in a reproducible and scientifically transparent way, supporting the final delivery as an academic article and oral presentation.
+
+**Main contributions:**
+
+- Contributed to the project organization strategy using GitHub, branches, milestones and collaborative planning.
+- Helped define a reproducible workflow using Google Colab notebooks and GitHub version control.
+- Participated in the planning of the machine learning pipeline for a healthcare classification problem.
+- Supported the dataset selection discussion, balancing feasibility, relevance and project complexity.
+- Contributed to the definition of an experiment structure aligned with academic reporting requirements.
+- Helped organize the article-writing workflow using Overleaf/LaTeX and scientific documentation practices.
+
+**Technical scope:**
+
+- Exploratory data analysis of health-related patient attributes.
+- Missing value analysis, outlier inspection and target distribution analysis.
+- Preprocessing pipeline for categorical encoding, normalization and class imbalance handling.
+- Supervised classification model training.
+- Spot-checking of multiple machine learning algorithms.
+- Hyperparameter optimization and model selection.
+- Evaluation using multiple performance metrics.
+- Reproducibility through fixed random seeds, shared notebooks and documented methodology.
+- Model interpretability analysis to identify relevant CKD risk factors.
+
+**Tech stack:**  
+`Python` `Scikit-learn` `Pandas` `NumPy` `Matplotlib` `Google Colab` `Machine Learning` `Supervised Learning` `Classification` `Model Evaluation` `Healthcare AI` `Reproducibility` `Interpretability` `GitHub` `Overleaf` `LaTeX`
+
+---
+
 ## Professional Experience
 
 ### Full-Stack Developer — Econtrole ESG Global
