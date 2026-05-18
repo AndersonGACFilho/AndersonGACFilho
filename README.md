@@ -143,7 +143,7 @@ This project is especially important to me because it was developed during my fi
 
 ---
 
-### <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/872e1c36-db0a-4553-9077-ff1d2a189367" /> The Invasion: Reforged
+### <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/872e1c36-db0a-4553-9077-ff1d2a189367" /> The Invasion: Reforged - WIP
 
 **Solo Developer · Unity · C# · 2D Remake · In Development**
 
@@ -208,7 +208,7 @@ The game combines FPS mechanics with score-based progression, temporary buffs, s
 
 ---
 
-### Global Game Jam 2026 — Vampiros (Não) Me Mordam / Vampires (Don't) Bite Me
+### Global Game Jam 2026 — Vampiros (Não) Me Mordam / Vampires (Don't) Bite Me - WIP
 
 **Programmer & Game Designer · Unity · C# · 2D Side-Scroller Survival/Stealth Prototype**  
 **Status:** Jam prototype / Post-jam remake planned
@@ -390,7 +390,7 @@ A Python automation script for translating Stardew Valley mod files, focused on 
 
 ---
 
-### Chronic Kidney Disease Risk Prediction
+### Chronic Kidney Disease Risk Prediction - WIP
 
 **Machine Learning Developer · Python · Scikit-learn · Google Colab · Academic Research**  
 **Status:** In development / MSc coursework project  
