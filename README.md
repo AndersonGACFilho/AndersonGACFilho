@@ -1,4 +1,4 @@
-# Anderson Gonçalves
+# Oi, eu sou o Anderson 👋
 
 [![Portfolio](https://img.shields.io/badge/portfolio-andersongacfilho.github.io-0A9EDC.svg)](https://andersongacfilho.github.io)
 [![Unity](https://img.shields.io/badge/Unity-000000.svg?logo=unity&logoColor=white)](https://unity.com/)
@@ -10,78 +10,87 @@
 [![itch.io](https://img.shields.io/badge/itch.io-Vertex%20Shift-FA5C5C.svg?logo=itchdotio&logoColor=white)](https://vertex-shift.itch.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-agacf-0A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agacf/)
 
-Gameplay programmer with a backend engineering background, in Porto Alegre.
-I build gameplay systems in Unity and Unreal, the services that keep them
-running, and I research how planning and reinforcement learning can make NPCs
-worth playing against.
+Sou programador de gameplay e venho do backend. Faço sistemas de jogo em Unity
+e Unreal, os serviços que sustentam esses jogos, e pesquiso IA para NPC no
+mestrado da UFRGS. Moro em Porto Alegre.
 
-MSc in Computer Science at UFRGS, on Game AI: hierarchical planning,
-multi-objective reinforcement learning and multi-agent systems.
+A pesquisa é sobre planejamento hierárquico e aprendizado por reforço
+multiobjetivo: como um NPC escolhe entre várias formas válidas de cumprir uma
+tarefa, em vez de seguir uma ordem de prioridade fixada no editor.
 
-## Play something
+## 🎮 Joga aí
 
-Five prototypes run in the browser, no download:
+Cinco protótipos rodam direto no navegador, sem baixar nada:
 **[andersongacfilho.github.io/games](https://andersongacfilho.github.io/games)**
 
-| | What it is |
+| Jogo | |
 |---|---|
-| [**The Invasion**](https://github.com/AndersonGACFilho/The-Invasion-Game) | My first programming project, written in the first semester of university in C++ against Allegro 5, with no engine. Rewritten as object-oriented C++ and compiled to WebAssembly, which is what you play in the browser. |
-| [**Starlight Protocol**](https://github.com/AndersonGACFilho/Starlight-Protocol) | 2D arcade shooter built on inertial flight: thrust moves you and momentum keeps you going, so every dodge is paid for on the way back. |
-| [**The Invasion: Reforged**](https://github.com/AndersonGACFilho/TheInvasionReforged) | The same game rebuilt in Unity to answer a different question — how far the combat engine can be pulled out of the engine. What is playable is the AI test bed, with each enemy showing its current state. |
-| [**Enhanced Shots**](https://github.com/AndersonGACFilho/Enhanced-Shots) | Shooting gallery where the targets are the mechanic. A four-person university team; I wrote the Lucky mode and the run completion flow. |
-| [**Solar System**](https://vertex-shift.itch.io/solar-system-coursera-course) | Interactive 3D simulation from a Coursera course on real-time 3D, with planet tracking and orbital mechanics that stay readable across wildly different scales. |
+| [**The Invasion**](https://github.com/AndersonGACFilho/The-Invasion-Game) | Meu primeiro projeto de programação, do primeiro semestre da faculdade. C++ com Allegro 5, sem motor nenhum. Reescrevi em orientação a objetos e compilei para WebAssembly, que é a versão que roda no navegador. |
+| [**Starlight Protocol**](https://github.com/AndersonGACFilho/Starlight-Protocol) | Shoot'em up 2D com voo inercial. A nave continua andando depois que você solta o impulso, então dá para se enrolar bastante. |
+| [**The Invasion: Reforged**](https://github.com/AndersonGACFilho/TheInvasionReforged) | O mesmo jogo refeito em Unity, para ver até onde dá para tirar o motor de combate de dentro da engine. O que está jogável é a cena de teste da IA, com o estado de cada inimigo aparecendo na tela. |
+| [**Enhanced Shots**](https://github.com/AndersonGACFilho/Enhanced-Shots) | Jogo de tiro ao alvo em que cada alvo faz uma coisa diferente. Trabalho de equipe da UFG, com quatro pessoas. Fiz o modo Lucky e a tela de fim de partida. |
+| [**Solar System**](https://vertex-shift.itch.io/solar-system-coursera-course) | Simulação 3D do sistema solar, de um curso da Coursera sobre 3D em tempo real. Tem rastreio de planeta e cometas. |
 
-## Research
+## 🧠 Pesquisa
 
-[**htn-morl-agent**](https://github.com/AndersonGACFilho/htn-morl-agent) — when a
-Hierarchical Task Network offers more than one valid decomposition, something
-has to choose. Behaviour trees answer with priority order, fixed at design
-time. This prototype lets a multi-objective RL policy rank the methods the HTN
-says are applicable, under a preference vector that shifts with the goal and
-the state.
+No [**htn-morl-agent**](https://github.com/AndersonGACFilho/htn-morl-agent) eu
+ataco um problema específico: quando uma HTN tem mais de uma decomposição
+válida para a mesma tarefa, alguém precisa escolher. Árvore de comportamento
+resolve isso por ordem de prioridade, decidida em tempo de design. Aqui uma
+política de aprendizado por reforço multiobjetivo ranqueia os métodos que a HTN
+diz serem aplicáveis, com pesos que mudam conforme o objetivo e o estado.
 
-[**Unity-HTN-Plugin**](https://github.com/AndersonGACFilho/Unity-HTN-Plugin) is
-where that work is meant to land as reusable NPC behaviour, for Unity first and
-Unreal after.
+O [**Unity-HTN-Plugin**](https://github.com/AndersonGACFilho/Unity-HTN-Plugin)
+é onde isso vira plugin reutilizável, primeiro para Unity e depois para Unreal.
 
-## Also building
+## 🛠️ Outras coisas que estou fazendo
 
-| Project | |
+| Projeto | |
 |---|---|
-| [Modular Audio Pipeline](https://github.com/AndersonGACFilho/Modular-Audio-Pipeline) | Transcription with speaker diarisation and local GPU inference, built as replaceable modules |
-| [Game Insight](https://github.com/AndersonGACFilho/Game-Insight) | Cross-platform game recommendation engine — Go and Java microservices behind one gamer profile |
-| [Ashvault](https://github.com/AndersonGACFilho/Ashvault) | First-person dungeon crawler for VR and flatscreen, in design |
-| [Vampires (Don't) Bite Me](https://github.com/AndersonGACFilho/Vampires--Don-t--bite-me) | Stealth horror from Global Game Jam 2026, theme *Mask*, being rebuilt as a Doom-like |
-| [RPG Character Sheet Manager](https://github.com/AndersonGACFilho/RPG-Character-Sheet-Manager) | Tabletop sheets where the ruleset is data, not code — Spring Boot and Angular |
+| [Modular Audio Pipeline](https://github.com/AndersonGACFilho/Modular-Audio-Pipeline) | Transcrição com separação de locutores, rodando na GPU local, em módulos trocáveis |
+| [Game Insight](https://github.com/AndersonGACFilho/Game-Insight) | Motor de recomendação de jogos, com microsserviços em Go e Java |
+| [Ashvault](https://github.com/AndersonGACFilho/Ashvault) | Dungeon crawler em primeira pessoa para VR e tela plana, ainda em design |
+| [Vampires (Don't) Bite Me](https://github.com/AndersonGACFilho/Vampires--Don-t--bite-me) | Furtividade e horror da Global Game Jam 2026, tema *Máscara*, sendo refeito ao estilo Doom |
+| [RPG Character Sheet Manager](https://github.com/AndersonGACFilho/RPG-Character-Sheet-Manager) | Fichas de RPG em que o sistema de regras é dado, não código. Spring Boot e Angular |
 
-## Work
+## 📊 GitHub
 
-| | Where | When |
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AndersonGACFilho&theme=dracula&hide_border=true" alt="Sequência de contribuições" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AndersonGACFilho&show_icons=true&theme=dracula&hide_border=true" alt="Estatísticas do GitHub" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AndersonGACFilho&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Linguagens mais usadas" height="165" />
+</p>
+
+## 💼 Onde trabalhei
+
+| | Onde | Quando |
 |---|---|---|
-| Full-Stack Developer | Econtrole — ESG platform, FastAPI and Angular, multi-tenant with async workers | 2025 – present |
-| AI & Games Researcher | UFRGS | 2026 – present |
-| Software Engineer, AI Systems | CEIA | 2025 – 2026 |
-| Full-Stack Developer | TOTVS Brasil Central | 2024 – 2025 |
-| Game Developer, Unreal / C++ | LabTIME / UFG | 2024 |
-| Software Engineering Intern | TOTVS | 2021 – 2023 |
+| Desenvolvedor Full-Stack | Econtrole, plataforma de ESG em FastAPI e Angular | 2025 – hoje |
+| Pesquisador de IA e Jogos | UFRGS | 2026 – hoje |
+| Engenheiro de Software, Sistemas de IA | CEIA | 2025 – 2026 |
+| Desenvolvedor Full-Stack | TOTVS Brasil Central | 2024 – 2025 |
+| Desenvolvedor de Jogos, Unreal e C++ | LabTIME / UFG | 2024 |
+| Estagiário de Engenharia de Software | TOTVS | 2021 – 2023 |
 
-I also teach: I write and deliver the database, testing and integrative
-project units of the *Programador de Sistemas* course at Senac RS.
+Também dou aula: escrevo e ministro as unidades de banco de dados, testes e
+projeto integrador do curso Programador de Sistemas, no Senac RS.
 
-## What I work with
+## ⚙️ Com o que eu trabalho
 
-**Games** — Unity, Unreal Engine 5, C#, C++, Gameplay Ability System, state
-machines, HTN and GOAP planning, behaviour trees.
+**Jogos** — Unity, Unreal Engine 5, C#, C++, Gameplay Ability System, máquinas
+de estado, planejamento HTN e GOAP, árvores de comportamento.
 
-**Backend** — Python with FastAPI, Java with Spring Boot, PostgreSQL, Redis,
-RabbitMQ, Docker. DDD and hexagonal architecture where the domain earns it.
+**Backend** — Python com FastAPI, Java com Spring Boot, PostgreSQL, Redis,
+RabbitMQ, Docker. DDD e arquitetura hexagonal quando o domínio justifica.
 
-**Research** — reinforcement learning, multi-objective optimisation,
-hierarchical planning, multi-agent systems.
+**Pesquisa** — aprendizado por reforço, otimização multiobjetivo, planejamento
+hierárquico, sistemas multiagentes.
 
-## Elsewhere
+## 📫 Onde me achar
 
-[Portfolio](https://andersongacfilho.github.io) ·
+[Portfólio](https://andersongacfilho.github.io) ·
 [LinkedIn](https://www.linkedin.com/in/agacf/) ·
 [itch.io](https://vertex-shift.itch.io) ·
 [andersonfilho09@gmail.com](mailto:andersonfilho09@gmail.com)
