@@ -59,8 +59,12 @@ where that becomes a reusable plugin, for Unity first and Unreal after.
   <img src="https://streak-stats.demolab.com/?user=AndersonGACFilho&theme=dracula&hide_border=true" alt="Contribution streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AndersonGACFilho&show_icons=true&theme=dracula&hide_border=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AndersonGACFilho&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Most used languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndersonGACFilho&theme=dracula" alt="Repositories per language" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AndersonGACFilho&theme=dracula" alt="Most used languages by commit" height="180" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndersonGACFilho&theme=dracula" alt="GitHub stats" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AndersonGACFilho&theme=dracula&utcOffset=-3" alt="Commits by time of day" height="180" />
 </p>
 
 ## Where I have worked
